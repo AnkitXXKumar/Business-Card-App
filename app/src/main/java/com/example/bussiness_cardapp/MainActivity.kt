@@ -55,6 +55,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//Main Function
+
 @Composable
 fun CreateBizCard(){
     val buttonClickedState  = remember {
